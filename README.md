@@ -1,6 +1,6 @@
 <div align="center">
   
-![Repo Traffic](https://komarev.com/ghpvc/?username=ak-base-kit-stm32l151&label=Repo+Traffic&color=blue&style=flat-square)
+![Repo Traffic](https://ak-badge-proxy.caotrongphuoc.workers.dev/?username=ak-base-kit-stm32l151&label=Repo+Traffic&color=blue&style=flat-square)
 
 </div>
 
